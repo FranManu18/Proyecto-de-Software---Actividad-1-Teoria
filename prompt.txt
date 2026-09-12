@@ -1,3 +1,4 @@
+Prompt 1 para ambas IAs:
 Necesito que me hagas un sitio web ESTATICO Y RESPONSIVO para mi emprendimiento en el que vendemos artesanías que pueden ser Tejidos, Ceramicos o Pinturas.
 El sitio debe tener una barra de navegación con enlaces a:
 -Información de contacto: un formulario simple que muestre mi Email de contacto: "Franciscopenettta@gmail.com" y mi nombre completo "Francisco Manuel Penetta"
@@ -16,5 +17,9 @@ Datos importantes:
 -Siempre recuerda que el sitio debe ser ESTATICO y RESPONSIVO
 
 
-
+Prompt 2 para IA 2:
 Necesito que vos me hagas imagenes de ejemplo, asi tambien como info adicional
+
+
+Prompt 3 para IA 2:
+Generame las imágenes de los artículos de ejemplo que hiciste y añadelas a el código que hiciste
