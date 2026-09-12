@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contacto - Artesanías</title>
+    <link rel="stylesheet" href="estilosIA.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="index.html" class="logo">Artesanías</a>
+            <ul class="nav-links">
+                <li><a href="index.html">Inicio</a></li>
+                <li class="dropdown">
+                    <a href="#">Artículos ▼</a>
+                    <ul class="dropdown-content">
+                        <li><a href="tejidos.html">Tejidos</a></li>
+                        <li><a href="ceramicos.html">Cerámicos</a></li>
+                        <li><a href="pinturas.html">Pinturas</a></li>
+                    </ul>
+                </li>
+                <li><a href="contacto.html">Contacto</a></li>
+                <li><a href="mantenedor.html">Mantenedor</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h1>Información de Contacto</h1>
+        <div class="info-container">
+            <form action="#" method="get" onsubmit="event.preventDefault();">
+                <div class="form-group">
+                    <label>Nombre Completo:</label>
+                    <input type="text" value="Francisco Manuel Penetta" readonly>
+                </div>
+                <div class="form-group">
+                    <label>Email de Contacto:</label>
+                    <input type="email" value="Franciscopenettta@gmail.com" readonly>
+                </div>
+                <div class="form-group">
+                    <label>Asunto:</label>
+                    <input type="text" placeholder="Ingrese el asunto...">
+                </div>
+                <div class="form-group">
+                    <label>Mensaje:</label>
+                    <textarea rows="5" placeholder="Escriba su mensaje aquí..."></textarea>
+                </div>
+                <button type="submit" class="btn">Enviar Mensaje</button>
+            </form>
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Francisco Manuel Penetta. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>

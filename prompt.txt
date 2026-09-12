@@ -1,0 +1,20 @@
+Necesito que me hagas un sitio web ESTATICO Y RESPONSIVO para mi emprendimiento en el que vendemos artesanías que pueden ser Tejidos, Ceramicos o Pinturas.
+El sitio debe tener una barra de navegación con enlaces a:
+-Información de contacto: un formulario simple que muestre mi Email de contacto: "Franciscopenettta@gmail.com" y mi nombre completo "Francisco Manuel Penetta"
+-Información de quien mantiene el sitio: Aquí pon mi nombre completo
+-Un listado de los artículos agrupados por categoría(Tejidos,Ceramicos o Pinturas), el cual sea un menú desplegable llamado "Articulos" que el pasar el cursor por encima se divida en las 3 categorías, al clickear cada categoría llevara al listado de los artículos de esa categoría. Siempre de forma ESTATICA
+
+De cada articulo va a haber 2 archivos, uno denominado "articulo1.png", el cual tendrá la imagen correspondiente a el articulo, y otro denominado "articulo1.pdf", con la información adicional del producto. Necesito que en el listado de los artículos se muestre la imagen (de forma clara, con borde y relleno) y un botón el cual al presionar muestre la información adicional del articulo seleccionado(Puede ser un símbolo o tener un texto corto).
+Haz 3 artículos por cada categoría a modo de ejemplo para que yo pueda ver como funciona el sitio.
+
+Estilo:
+Necesito que la pagina tenga un estilo minimalista, sin colores fuertes o radiantes, sino con colores sobrios como el blanco,negro,gris o tonalidades parecidas. Que el estilo del sitio nos haga parecer una marca elegante y seria.
+
+Datos importantes:
+-Solo debes usar HTML y CSS.
+-Las reglas del estilo del sitio deben estar en un archivo separado, el cual quiero que nombres como estilosIA.css
+-Siempre recuerda que el sitio debe ser ESTATICO y RESPONSIVO
+
+
+
+Necesito que vos me hagas imagenes de ejemplo, asi tambien como info adicional
